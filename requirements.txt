@@ -1,0 +1,5 @@
+- REQUIREMENTS.PY
+
+- Python 3.5.0 and Later
+- pip install tkinter
+- python3 -m install tkinter

@@ -1,0 +1,6 @@
+Create a .py file in the src folder and name it
+anything you want. Use "from _init__ import hello world".
+Then use "helloworld_app()" and run it with your IDE. You should
+see a tkinter window pop up with text reading "Hello World".
+
+READ REQUIREMENTS.TXT IF IT'S NOT WORKING!
